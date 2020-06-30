@@ -4,7 +4,7 @@ import {Title} from './style';
 function App() {
   return (
     <div>
-      <Title>Hello Word
+      <Title fontSize={12}>Hello Word
         <span>menor</span>
       </Title>
     </div>
